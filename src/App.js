@@ -5,7 +5,8 @@ import Row from "./Row";
 import requests from "./requests";
 
 function App() {
-  // change for checking
+  // change for checkings
+
   return (
     <div className="app">
       <Nav/>

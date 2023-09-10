@@ -5,7 +5,7 @@ import Row from "./Row";
 import requests from "./requests";
 
 function App() {
-  // change for checkings
+  // change for checkingshjj
 
   return (
     <div className="app">

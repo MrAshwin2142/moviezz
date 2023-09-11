@@ -13,13 +13,6 @@ You can access the live demo of this project here: [Netflix Clone Live Demo](htt
 - Responsive design for various screen sizes.
 - Real-time movie data fetched from the TMDB API.
 
-![Screenshot 1](/src/images/demo1.png)
-*This screenshot shows the main screen of the Netflix clone, where users can browse movies by different categories.*
-
-![Screenshot 2](/src/images/demo2.png)
-*In this screenshot, a movie trailer is playing within the Netflix clone, offering users an immersive viewing experience.*
-
-
 ## Technologies Used
 
 - React

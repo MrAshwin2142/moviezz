@@ -1,0 +1,12 @@
+.footer{
+    color: brown;
+    background-color: black;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+span>a{
+    font-size: 22px;
+    color: brown;
+}

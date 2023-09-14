@@ -3,7 +3,7 @@ import "./footer.css"
 function Footer() {
   return (
     <div className='footer'>
-      Made by <span><a href="https://mrashwin2142.github.io/portfoli.github.io/"> Ashwin</a></span> with ❤️ and React js
+      Made by <span><a href="https://ashwin-portfolioo.netlify.app/"> Ashwin</a></span> with ❤️ and React js
     </div>
   )
 }
